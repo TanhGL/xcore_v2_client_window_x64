@@ -1,0 +1,6 @@
+2024-04-21 17:15:51.7016-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-21 17:16:52.7455-INFO UpdateTaskRunSubscription
+2024-04-21 17:17:52.7403-INFO UpdateTaskRunGeo
+2024-04-21 17:46:26.7582-INFO MyAppExit Begin
+2024-04-21 17:46:26.8074-INFO MyAppExit End
+2024-04-21 17:46:26.8374-INFO OnExit

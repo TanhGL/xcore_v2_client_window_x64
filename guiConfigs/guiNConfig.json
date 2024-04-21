@@ -1,0 +1,217 @@
+{
+  "indexId": "5135884054660236263",
+  "subIndexId": null,
+  "sysProxyType": 1,
+  "systemProxyExceptions": "",
+  "systemProxyAdvancedProtocol": null,
+  "runningCoreType": 2,
+  "coreBasicItem": {
+    "logEnabled": true,
+    "loglevel": "warning",
+    "muxEnabled": false,
+    "defAllowInsecure": true,
+    "defFingerprint": null,
+    "defUserAgent": null,
+    "enableFragment": false
+  },
+  "tunModeItem": {
+    "enableTun": false,
+    "strictRoute": true,
+    "stack": "gvisor",
+    "mtu": 9000,
+    "enableExInbound": false,
+    "enableIPv6Address": true
+  },
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "grpcItem": {
+    "idle_timeout": 60,
+    "health_check_timeout": 20,
+    "permit_without_stream": false,
+    "initial_windows_size": 0
+  },
+  "routingBasicItem": {
+    "domainStrategy": "AsIs",
+    "domainStrategy4Singbox": null,
+    "domainMatcher": null,
+    "routingIndexId": "4903917662071327820",
+    "enableRoutingAdvanced": true
+  },
+  "guiItem": {
+    "autoRun": false,
+    "enableStatistics": true,
+    "keepOlderDedupl": false,
+    "ignoreGeoUpdateCore": true,
+    "autoUpdateInterval": 10,
+    "checkPreReleaseUpdate": false,
+    "enableSecurityProtocolTls13": false,
+    "trayMenuServersLimit": 20,
+    "enableHWA": false,
+    "enableLog": true
+  },
+  "uiItem": {
+    "enableAutoAdjustMainLvColWidth": true,
+    "enableUpdateSubOnlyRemarksExist": false,
+    "mainWidth": 1536,
+    "mainHeight": 724,
+    "mainGirdHeight1": 192,
+    "mainGirdHeight2": 454,
+    "colorModeDark": false,
+    "followSystemTheme": false,
+    "colorPrimaryName": null,
+    "currentLanguage": "zh-Hans",
+    "currentFontFamily": null,
+    "currentFontSize": 0,
+    "enableDragDropSort": false,
+    "doubleClick2Activate": false,
+    "autoHideStartup": false,
+    "mainMsgFilter": "",
+    "mainColumnItem": [
+      {
+        "Name": "configType",
+        "Width": 57,
+        "Index": 0
+      },
+      {
+        "Name": "remarks",
+        "Width": 214,
+        "Index": 1
+      },
+      {
+        "Name": "address",
+        "Width": 184,
+        "Index": 2
+      },
+      {
+        "Name": "port",
+        "Width": 109,
+        "Index": 3
+      },
+      {
+        "Name": "network",
+        "Width": 81,
+        "Index": 4
+      },
+      {
+        "Name": "streamSecurity",
+        "Width": 54,
+        "Index": 5
+      },
+      {
+        "Name": "subRemarks",
+        "Width": 81,
+        "Index": 6
+      },
+      {
+        "Name": "delayVal",
+        "Width": 82,
+        "Index": 7
+      },
+      {
+        "Name": "speedVal",
+        "Width": 87,
+        "Index": 8
+      },
+      {
+        "Name": "todayUp",
+        "Width": 81,
+        "Index": 9
+      },
+      {
+        "Name": "todayDown",
+        "Width": 81,
+        "Index": 10
+      },
+      {
+        "Name": "totalUp",
+        "Width": 69,
+        "Index": 11
+      },
+      {
+        "Name": "totalDown",
+        "Width": 69,
+        "Index": 12
+      }
+    ]
+  },
+  "constItem": {
+    "defIEProxyExceptions": "localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*",
+    "subConvertUrl": ""
+  },
+  "speedTestItem": {
+    "speedTestTimeout": 10,
+    "speedTestUrl": "https://speed.cloudflare.com/__down?bytes=100000000",
+    "speedPingTestUrl": "https://www.google.com/generate_204"
+  },
+  "mux4SboxItem": {
+    "protocol": "h2mux",
+    "max_connections": 4
+  },
+  "hysteriaItem": {
+    "up_mbps": 100,
+    "down_mbps": 100
+  },
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": false,
+      "routeOnly": false,
+      "allowLANConn": true,
+      "newPort4LAN": false,
+      "user": "",
+      "pass": ""
+    }
+  ],
+  "globalHotkeys": [],
+  "coreTypeItem": [
+    {
+      "configType": 1,
+      "coreType": 2
+    },
+    {
+      "configType": 2,
+      "coreType": 2
+    },
+    {
+      "configType": 3,
+      "coreType": 2
+    },
+    {
+      "configType": 4,
+      "coreType": 2
+    },
+    {
+      "configType": 5,
+      "coreType": 2
+    },
+    {
+      "configType": 6,
+      "coreType": 2
+    },
+    {
+      "configType": 7,
+      "coreType": 2
+    },
+    {
+      "configType": 8,
+      "coreType": 2
+    },
+    {
+      "configType": 9,
+      "coreType": 2
+    },
+    {
+      "configType": 10,
+      "coreType": 2
+    }
+  ]
+}

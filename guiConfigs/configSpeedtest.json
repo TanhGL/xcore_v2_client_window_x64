@@ -1,0 +1,90 @@
+{
+  "log": {
+    "access": "C:\\Users\\Tanh\\Videos\\v2rayN-With-Core\\guiLogs\\Vaccess_2024-04-18.txt",
+    "error": "C:\\Users\\Tanh\\Videos\\v2rayN-With-Core\\guiLogs\\Verror_2024-04-18.txt",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "http10829",
+      "port": 10829,
+      "listen": "127.0.0.1",
+      "protocol": "http"
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {}
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      }
+    },
+    {
+      "tag": "proxy10829",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "nothing.zakshin.io.vn",
+            "port": 443,
+            "users": [
+              {
+                "id": "bd2ec2f1-75fe-4dd0-851d-8bd954478727",
+                "alterId": 0,
+                "email": "t@t.tt",
+                "security": "auto",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "m.tiktok.com",
+          "alpn": [
+            "h2",
+            "http/1.1",
+            "h3"
+          ],
+          "fingerprint": "chrome",
+          "show": false
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1
+      }
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "inboundTag": [
+          "api"
+        ],
+        "outboundTag": "api"
+      },
+      {
+        "type": "field",
+        "inboundTag": [
+          "http10829"
+        ],
+        "outboundTag": "proxy10829"
+      }
+    ]
+  }
+}

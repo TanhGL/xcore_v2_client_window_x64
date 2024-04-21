@@ -1,0 +1,90 @@
+2024-04-18 10:17:46.9090-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 10:18:47.9692-INFO UpdateTaskRunSubscription
+2024-04-18 10:19:47.9807-INFO UpdateTaskRunGeo
+2024-04-18 10:19:50.7788-INFO MyAppExit Begin
+2024-04-18 10:19:50.9041-INFO MyAppExit End
+2024-04-18 10:19:50.9041-INFO OnExit
+2024-04-18 10:19:52.5526-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 10:20:53.0605-INFO UpdateTaskRunSubscription
+2024-04-18 10:21:53.0637-INFO UpdateTaskRunGeo
+2024-04-18 10:25:13.7540-INFO MyAppExit Begin
+2024-04-18 10:25:13.8020-INFO MyAppExit End
+2024-04-18 10:25:13.8311-INFO OnExit
+2024-04-18 10:25:14.2528-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 10:26:14.6528-INFO UpdateTaskRunSubscription
+2024-04-18 10:27:14.6522-INFO UpdateTaskRunGeo
+2024-04-18 11:00:13.7304-INFO Tun mode restart the core once
+2024-04-18 11:17:22.6438-INFO MyAppExit Begin
+2024-04-18 11:17:22.6777-INFO MyAppExit End
+2024-04-18 11:17:22.6777-INFO OnExit
+2024-04-18 15:49:05.3933-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 15:50:06.2436-INFO UpdateTaskRunSubscription
+2024-04-18 15:51:06.2440-INFO UpdateTaskRunGeo
+2024-04-18 16:06:02.6204-INFO MyAppExit Begin
+2024-04-18 16:06:02.6689-INFO MyAppExit End
+2024-04-18 16:06:02.6809-INFO OnExit
+2024-04-18 16:06:31.5120-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 16:07:07.2538-INFO MyAppExit Begin
+2024-04-18 16:07:07.2860-INFO MyAppExit End
+2024-04-18 16:07:07.3043-INFO OnExit
+2024-04-18 16:07:34.3961-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 16:08:34.7976-INFO UpdateTaskRunSubscription
+2024-04-18 16:09:34.8036-INFO UpdateTaskRunGeo
+2024-04-18 16:10:15.9952-INFO MyAppExit Begin
+2024-04-18 16:10:16.0344-INFO MyAppExit End
+2024-04-18 16:10:16.0497-INFO OnExit
+2024-04-18 16:10:18.3493-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 16:11:18.8534-INFO UpdateTaskRunSubscription
+2024-04-18 16:12:18.8562-INFO UpdateTaskRunGeo
+2024-04-18 16:13:48.9857-INFO MyAppExit Begin
+2024-04-18 16:13:49.0509-INFO MyAppExit End
+2024-04-18 16:13:49.0903-INFO OnExit
+2024-04-18 16:13:49.7250-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 16:14:50.2948-INFO UpdateTaskRunSubscription
+2024-04-18 16:15:50.2835-INFO UpdateTaskRunGeo
+2024-04-18 18:30:58.3236-INFO MyAppExit Begin
+2024-04-18 18:30:58.3635-INFO MyAppExit End
+2024-04-18 18:30:58.3732-INFO OnExit
+2024-04-18 18:31:04.1898-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 18:32:04.5511-INFO UpdateTaskRunSubscription
+2024-04-18 18:33:04.5570-INFO UpdateTaskRunGeo
+2024-04-18 18:35:29.6108-INFO MyAppExit Begin
+2024-04-18 18:35:29.6451-INFO MyAppExit End
+2024-04-18 18:35:29.6530-INFO OnExit
+2024-04-18 19:46:06.8700-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 19:46:23.4880-INFO MyAppExit Begin
+2024-04-18 19:46:23.5326-INFO MyAppExit End
+2024-04-18 19:46:23.5424-INFO OnExit
+2024-04-18 19:46:26.2262-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 19:46:33.6478-INFO MyAppExit Begin
+2024-04-18 19:46:33.7113-INFO MyAppExit End
+2024-04-18 19:46:33.7514-INFO OnExit
+2024-04-18 19:46:34.1345-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 19:47:34.5571-INFO UpdateTaskRunSubscription
+2024-04-18 19:48:34.5628-INFO UpdateTaskRunGeo
+2024-04-18 20:23:34.7220-INFO MyAppExit Begin
+2024-04-18 20:23:34.7743-INFO MyAppExit End
+2024-04-18 20:23:34.8115-INFO OnExit
+2024-04-18 20:23:37.1013-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 20:23:51.4902-INFO MyAppExit Begin
+2024-04-18 20:23:51.5530-INFO MyAppExit End
+2024-04-18 20:23:51.5683-INFO OnExit
+2024-04-18 20:23:54.2203-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 20:24:54.7681-INFO UpdateTaskRunSubscription
+2024-04-18 20:25:54.7759-INFO UpdateTaskRunGeo
+2024-04-18 21:22:08.0124-INFO MyAppExit Begin
+2024-04-18 21:22:08.0593-INFO MyAppExit End
+2024-04-18 21:22:08.0699-INFO OnExit
+2024-04-18 21:39:39.7223-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 21:40:40.1550-INFO UpdateTaskRunSubscription
+2024-04-18 21:41:40.1553-INFO UpdateTaskRunGeo
+2024-04-18 22:58:13.4338-INFO MyAppExit Begin
+2024-04-18 22:58:13.4725-INFO MyAppExit End
+2024-04-18 22:58:13.5018-INFO OnExit
+2024-04-18 22:58:14.8992-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 22:58:23.3596-INFO MyAppExit Begin
+2024-04-18 22:58:23.4042-INFO MyAppExit End
+2024-04-18 22:58:23.4125-INFO OnExit
+2024-04-18 22:58:25.0315-INFO v2rayN start up | v2rayN - V6.43 - 2024/04/10 | C:\Users\Tanh\Videos\v2rayN-With-Core\v2rayN.exe
+2024-04-18 22:59:25.4031-INFO UpdateTaskRunSubscription
+2024-04-18 23:00:25.4151-INFO UpdateTaskRunGeo
