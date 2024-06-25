@@ -1,0 +1,70 @@
+1. Cước phí:
+- KHG gọi lên hỏi thông tin cước phí để thanh toán. TĐV đã hướng dẫn và cung cấp thông tin cho KHG. KHG OK
+- KHg báo đã đóng tiền cước tháng  qua ngân hàng. TDV kiểm tra hóa đơn T2 có mã là M24VT00085444 với số tiền 223,600VND vẫn chưa được thanh toán. Nhờ DVKH care giúp.
+- Kh báo cước tháng này tăng hơn tháng trước, nhưng ko báo cho kh, ktra đúng là tăng so với tháng trước, chưa rõ nguyên nhân, nhờ cus ktra lại giúp.
+- KHG báo lên thắc mắc về thông tin gói cước tăng giảm và muốn hạ gói. TĐV đã thông báo đây là gói thấp nhất không hạ được, KHG nok.
+ Nhờ DVKH care giúp 
+- Khg báo chưa có nv đến nhà thu cước
+- KH phản ánh chưa mở được NET, đã thanh toán cước phí : hd tắt/mở modem, TDV xóa sessionn
+
+[thông tin-> thông tin cước phí ->...]
+
+2. Hóa đơn:
+- KH cần lấy hóa đơn cước phí. TDV hướng dẫn KH thao tác qua trang member/HIFPT. KH ok
+- KH lấy hóa đơn qua trang member nhưng không có hóa đơn đính kèm. Nhờ CUS care giúp.
+
+[ thông tin-> tt cước phí ->hỗ trợ thông tin hóa đơn->ok]
+
+3. Trả trước:
+- KHG báo muốn chuyển trả sau sang trả trước. TDV tạo khoản thu 6/12T. KH thanh toán ok.
+- KHG báo muốn chuyển trả sau sang trả trước. TDV tạo khoản thu not ok. Nhờ DVKH tạo khoảng thu 6/12T tháng giúp.
+
+4. Gia hạn:
+- KHG y/c gia hạn. TĐV đã hướng dẫn KHG tự giạ hạn qua tổng đài/HiFPT, KHG ok
+- KHG y/c gia hạn. TĐV đã hướng dẫn KHG tự giạ hạn qua tổng đài, KHG nok, KHG y/c TĐV gia hạn.
+- KHG y/c gia hạn lần 2. TĐV đã cung cấp tt gia hạn tính phí, KHG nok, nhờ TN hỗ trợ.
+
+[thông tin -> thông tin cước phí -> khiếu nại thắc mắc ->...]
+
+5. WIFI:
+- Khách báo mất kết nối không truy cập được. TĐV kiểm tra thông số không có IPWAN VÀ ONU= Unknow. TĐV đã hướng dẫn khách tắt bật lại thiết bị. KHG nok. Nhờ KT đến hỗ trợ
+- Khách báo mất kết nối không truy cập được. TĐV kiểm tra thông số có IPWAN VÀ ONU= 20.27. Thông số kết nối tốt. TĐV đã hướng dẫn khách tắt bật lại thiết bị. KHG ok. Khách đã kết nối lại được 
+- Khách báo mất kết nối không truy cập được. TĐV kiểm tra thông số có IPWAN VÀ ONU= -22.7580. Thông số kết nối tốt. TĐV đã hướng dẫn khách tắt bật lại thiết bị. KHG nok.Nhờ KT xuống hỗ trợ
+- Khách báo truy cập bị chậm. TĐV kiểm tra thông số có IPWAN VÀ ONU=  -22.60. Thông số kết nối tốt. TĐV đã hướng dẫn khách tắt bật lại thiết bị not ok Nhờ KT xuống hỗ trợ.
+ - KHG báo bị mất kết nối, TĐV ktra thấy có ESCL mã SC2703240376  Thời gian dự kiến kết thúc 16:07 27/03/2024 , Đã thuyết phục KHG đợi, KHG ok, nhờ DVKH care giúp
+- KH báo mất net, ktra KH sai Invalid OSP, da xac nhan tt, tdv htro reset. KH đã online.
+- kh báo ko truy cập được wifi, ktra modem ko sáng đèn nào, tắt mở tbi not ok, nhờ KT hỗ trợ, đã nhập cls
+kh báo ko truy cập được wifi, ktra modem ko sáng đèn nào, tắt mở tbi. KH đã online
+- kh báo ko truy cập được wifi, hướng dẫn KH tắt mở tbi. KH đã online
+- kh báo ko truy cập được wifi, hướng dẫn KH tắt mở tbi. KH kiểm tra và gọi lại sau
+
+
+6. Truyền hình:
+- KH báo tv ko xem được, hiện màn hình lỗi kết nối, đã hd KH thử tắt bật lại tbi, kiểm tra lại dây LAN, NOK > nhờ kt care
+- KH bao tv ko xem đựoc, hien man loi ko co tin hieu, da hd KH thu tat bat lai tbi, hd KH chuyen che do HDMI de xem, NOK > nho kt care
+- KHG báo lên không bật được truyền hình, TĐV hướng dẫn khách thay pin remote, KHG OK. Nhờ DVKH care giúp.
+- KH báo remote đã thay pin vẫn sáng đèn nhưng điều khiển không được. TDV hướng dẫn kết nối not ok nhờ CCO hướng dẫn kết nối lại
+
+
+7. Tiến độ:
+- KHG báo chưa có nhân viên đến bảo trì, TĐv ktra CL đã quá hẹn xanh, TĐV thuyết phục khách đợi thêm, KHG OK, nhờ chi nhánh care giúp 
+- KHG báo chưa có nhân viên đến bảo trì, TĐv ktra CL đã quá hẹn xanh,TDV liên hệ KTV báo sẽ liên hệ KH ngay. 
+- Khách có nguy cơ rời mạng. KHG báo FPT không đến bảo trì cho khách, TĐV kiểm tra checklist có khung giờ xanh chưa đến hẹn. KHG dọa hủy chuyển viettel do trễ hẹn khung đỏ với khách. TĐV đã liên hệ với anh LiemDT2@fpt.com - 0902818281. Chi nhánh báo KT đang ưu tiên liên hệ KHG.
+
+
+8. Camera:
+- KH gỡ IP NAT để xem camera, TDV  yêu cầu KHg kiểm tra lại đầu ghi cấu hình NAT PORT trên thiết bị. Khách OK, nhờ TN kiểm tra mở PORT giúp. 
+- KHG báo ko xem được dữ liệu 2 3 ngày trước, TĐV hướng dẫn KHG tắt mở md và khởi động lại thiết bị, KHG nok, Nhớ KT xuống hỗ trợ ktra.
+
+
+9. Thanh lý/tạm ngưng:
+- Kh muốn thanh lý DV internet, TĐV thuyết Phục, KHG nok, đã hướng dẫn  ra quầy làm thủ tục, KHG nok, Nhờ DVKH care giúp ạ 
+- Kh muốn thanh lý DV truyền hình, TĐV thuyết Phục, KHG nok, đã hướng dẫn  ra quầy làm thủ tục, KHG nok, KHG Y/C chuyển sang gói cước thấp hơn, TĐV đã tư vấn đây là gói thấp nhất không thể hạ nữa, Nhờ DVKH care giúp ạ 
+- khách y/c hủy truyền hình FPT giữ Internet do KHG không có thời gian xem truyền hình. TĐV hướng dẫn KHG lên quầy. KHG OK
+-  khách y/c hủy truyền hình FPT giữ Internet do KHG không có thời gian xem truyền hình. TĐV hướng dẫn KHG lên quầy. KHG NOT OK. NHờ CS care.
+-  Kh muốn tạm ngưng DV truyền hình, Khi nào dùng sẽ mở lại, đã hướng dẫn  ra quầy làm thủ tục, KHG nok, Nhờ DVKH care giúp ạ 
+
+
+10. Chuyển địa điểm:
+- KH muốn chuyển địa điểm đến và đồng y cước phí 275k. Đã tạo PTC
+
